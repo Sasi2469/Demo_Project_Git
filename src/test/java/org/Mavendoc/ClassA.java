@@ -15,13 +15,20 @@ public class ClassA {
 	}
 	
 	public static void method3() {
-		System.out.println("demo145");
+		System.out.println("demo2");
 
 	}
+	public static void method4() {
+		System.out.println("demo3");
+
+	}
+	
+	
 	
 	public static void main(String[] args) {
 		method1();
 		method2();
 		method3();
+		method4();
 	}
 }
