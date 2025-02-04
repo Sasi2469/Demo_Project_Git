@@ -41,6 +41,6 @@ public class ClassA {
 		method3();
 		method4();
 		method6();
-		method7()
+		method7();
 	}
 }
