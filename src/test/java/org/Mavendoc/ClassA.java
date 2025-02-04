@@ -30,7 +30,9 @@ public class ClassA {
 
 	}
 	
-	
+	public static void method7() {
+		System.out.println("demo656774");
+	}
 
 	
 	public static void main(String[] args) {
@@ -39,5 +41,6 @@ public class ClassA {
 		method3();
 		method4();
 		method6();
+		method7()
 	}
 }
